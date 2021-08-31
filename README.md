@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhotre)](https://github.com/hhotre/github-readme-stats)
 
-![João Vitor Junckes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hhotre&theme=graywhite&show_icons=true)
+
 
 
 
